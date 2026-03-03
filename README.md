@@ -62,4 +62,3 @@ If you use this dataset, please link to: https://www.pointspick.com/tools/mcc-lo
 
 Data sourced from ISO 18245 MCC standard, Visa/Mastercard published classifications,
 and verified transaction processing records. Maintained by the PointsPick editorial team.
-# mcc-database
